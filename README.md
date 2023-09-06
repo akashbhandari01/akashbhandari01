@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Akash Bhandari(@akashbhandari01)
+- 👋 Hi, I’m Akash Bhandari
 - 👀 I’m interested in Python,Java
-- 🌱 I’m currently learning Data Science
 - 📫 akash.bhandari2002@rediffmail.com -it's my offical email i'd
 
 <!---
